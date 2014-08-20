@@ -20,8 +20,8 @@
         lists: {
             unordered: "Lista",
             ordered: "Lista numerada",
-            outdent: "Remover indentação",
-            indent: "Indentar"
+            outdent: "Diminuir recuo",
+            indent: "Aumentar recuo"
         },
         link: {
             insert: "Inserir link",
